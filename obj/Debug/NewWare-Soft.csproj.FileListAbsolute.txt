@@ -1,0 +1,734 @@
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe.config
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.pdb
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaPromProductos.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaProyectoMes.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Estadistica_Antiguedad.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaBarrio.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCiudad.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCliente.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.Estadistica_HerramientasMasUtilizadas.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.FormaDePagoMasUtilizadas.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaEtapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaFormaPago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaPersonal.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Banco.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Cargo.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_FormPago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_MotivoEgreso.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoBarrios.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoClientes.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeFacturas.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeProductos.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeTodosLosProyectos.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Factura_Cliente.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoFormasDePago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoHerramientasXetapas.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonal.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoEmpleadoXproyecto.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonalXetapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProductosXCliente.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProdXFactura.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoEtapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoMes.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectosActivos.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Productos_X_Clientes.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoEtapas.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoPersonal.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteProyectosFinalizados.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Tarjeta.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaBarrio.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCiudad.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCliente.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaEtapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFactura.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFormaPago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaPersonal.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaProductoForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_FormPago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Banco.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Cargo.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_MotivoEgreso.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Tarjeta.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ElimUser.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasPorEtapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasAltasForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasBajasForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasModificacionesForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ListadoDeUsuarios.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Login.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionBarrio.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionCiudad.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionProductoForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Modificacion_Cargo.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarCliente.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarEtapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarFormaPago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarPersonal.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModifUser.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_FormPago.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Banco.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_MotivoEgreso.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Tarjeta.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.NuevaVenta.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PersonalXEtapa.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PrincipalForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ProductoForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Proyectos.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.UserForm.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CopyComplete
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.exe
+C:\Users\Usuario\Documents\GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.pdb
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare-Soft.csprojAssemblyReference.cache
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.EstadisticaDuracionProyectos.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaPromProductos.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaProyectoMes.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Estadistica_Antiguedad.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaBarrio.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCiudad.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCliente.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.Estadistica_HerramientasMasUtilizadas.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.FormaDePagoMasUtilizadas.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaEtapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaFormaPago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaPersonal.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Banco.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Cargo.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_FormPago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_MotivoEgreso.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoBarrios.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoClientes.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeFacturas.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeProductos.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeTodosLosProyectos.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Factura_Cliente.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoFormasDePago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoHerramientasXetapas.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonal.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoEmpleadoXproyecto.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonalXetapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProductosXCliente.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProdXFactura.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoEtapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoMes.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectosActivos.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Productos_X_Clientes.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoEtapas.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoPersonal.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteProyectosFinalizados.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Tarjeta.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaBarrio.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCiudad.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCliente.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaEtapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFactura.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFormaPago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaPersonal.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaProductoForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_FormPago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Banco.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Cargo.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_MotivoEgreso.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Tarjeta.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ElimUser.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasPorEtapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasAltasForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasBajasForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasModificacionesForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ListadoDeUsuarios.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Login.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionBarrio.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionCiudad.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionProductoForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Modificacion_Cargo.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarCliente.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarEtapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarFormaPago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarPersonal.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModifUser.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_FormPago.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Banco.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_MotivoEgreso.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Tarjeta.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.NuevaVenta.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PersonalXEtapa.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PrincipalForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ProductoForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Proyectos.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.UserForm.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare_Soft.Properties.Resources.resources
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.GenerateResource.cache
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\RdlCompile.cache
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\RdlCompile.compiled
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare-Soft.exe
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare-Soft.pdb
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\NewWare-Soft.exe.config
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\NewWare-Soft.exe
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\NewWare-Soft.pdb
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\EnvDTE.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\stdole.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lautaro\Documents\GitHub\NewWare\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CopyComplete
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe.config
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.pdb
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\EnvDTE.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\stdole.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csprojAssemblyReference.cache
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticasEmpleados.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.EstadisticaDuracionProyectos.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaPromProductos.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaProyectoMes.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Estadistica_Antiguedad.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaBarrio.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCiudad.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCliente.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.Estadistica_HerramientasMasUtilizadas.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.FormaDePagoMasUtilizadas.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaEtapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaFormaPago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaPersonal.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Banco.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Cargo.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_FormPago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_MotivoEgreso.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoBarrios.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoClientes.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeFacturas.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeProductos.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeTodosLosProyectos.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Factura_Cliente.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoFormasDePago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoHerramientasXetapas.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonal.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoEmpleadoXproyecto.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonalXetapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProductosXCliente.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProdXFactura.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoEtapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoMes.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectosActivos.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Productos_X_Clientes.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoEtapas.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoPersonal.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteProyectosFinalizados.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Tarjeta.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaBarrio.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCiudad.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCliente.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaEtapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFactura.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFormaPago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaPersonal.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaProductoForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_FormPago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Banco.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Cargo.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_MotivoEgreso.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Tarjeta.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ElimUser.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasPorEtapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasAltasForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasBajasForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasModificacionesForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ListadoDeUsuarios.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Login.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionBarrio.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionCiudad.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionProductoForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Modificacion_Cargo.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarCliente.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarEtapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarFormaPago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarPersonal.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModifUser.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_FormPago.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Banco.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_MotivoEgreso.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Tarjeta.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.NuevaVenta.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PersonalXEtapa.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PrincipalForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ProductoForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Proyectos.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.UserForm.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Properties.Resources.resources
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.cache
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.compiled
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CopyComplete
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.exe
+C:\Users\Nico\Desktop\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.pdb
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csprojAssemblyReference.cache
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticasEmpleados.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.EstadisticaDuracionProyectos.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaPromProductos.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaProyectoMes.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Estadistica_Antiguedad.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaBarrio.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCiudad.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCliente.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.Estadistica_HerramientasMasUtilizadas.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.FormaDePagoMasUtilizadas.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaEtapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaFormaPago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaPersonal.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Banco.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Cargo.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_FormPago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_MotivoEgreso.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoBarrios.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoClientes.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeFacturas.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeProductos.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeTodosLosProyectos.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Factura_Cliente.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoFormasDePago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoHerramientasXetapas.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonal.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoEmpleadoXproyecto.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonalXetapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProductosXCliente.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProdXFactura.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoEtapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoMes.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectosActivos.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Productos_X_Clientes.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoEtapas.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoPersonal.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteProyectosFinalizados.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Tarjeta.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaBarrio.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCiudad.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCliente.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaEtapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFactura.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFormaPago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaPersonal.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaProductoForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_FormPago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Banco.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Cargo.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_MotivoEgreso.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Tarjeta.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ElimUser.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasPorEtapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasAltasForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasBajasForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasModificacionesForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ListadoDeUsuarios.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Login.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionBarrio.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionCiudad.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionProductoForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Modificacion_Cargo.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarCliente.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarEtapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarFormaPago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarPersonal.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModifUser.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_FormPago.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Banco.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_MotivoEgreso.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Tarjeta.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.NuevaVenta.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PersonalXEtapa.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PrincipalForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ProductoForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Proyectos.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.UserForm.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Properties.Resources.resources
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.GenerateResource.cache
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.cache
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.compiled
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.exe
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.pdb
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe.config
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.pdb
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\EnvDTE.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\stdole.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.MSXML.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CoreCompileInputs.cache
+C:\Users\david.LAPTOP-02B98GBJ\Desktop\FRC\3er nivel\PAV I\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CopyComplete
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe.config
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.exe
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\NewWare-Soft.pdb
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\EnvDTE.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\stdole.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\Microsoft.MSXML.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.AssemblyReference.cache
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticasEmpleados.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.EstadisticaDuracionProyectos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaPromProductos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.EstadisticaProyectoMes.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Estadistica_Antiguedad.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaBarrio.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCiudad.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaCliente.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.Estadistica_HerramientasMasUtilizadas.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.FormaDePagoMasUtilizadas.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.ProductosMasVendidos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaEtapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaFormaPago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.AltaPersonal.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Banco.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Cargo.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_FormPago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_MotivoEgreso.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoBarrios.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoClientes.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeFacturas.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeProductos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoDeTodosLosProyectos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Factura_Cliente.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoFormasDePago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoHerramientasXetapas.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonal.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoEmpleadoXproyecto.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoPersonalXetapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProductosXCliente.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProdXFactura.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoEtapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectoMes.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ListadoProyectosActivos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.Listado_Productos_X_Clientes.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoEtapas.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteListadoPersonal.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Reportes.ReporteProyectosFinalizados.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Alta_Tarjeta.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaBarrio.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCiudad.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaCliente.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaEtapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFactura.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaFormaPago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaPersonal.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.BajaProductoForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_FormPago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Banco.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Cargo.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_MotivoEgreso.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Baja_Tarjeta.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ElimUser.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasPorEtapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.HerramientasAltasForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasBajasForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Herramientas.HerramientasModificacionesForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ListadoDeUsuarios.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Login.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionBarrio.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionCiudad.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificacionProductoForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Modificacion_Cargo.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarCliente.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarEtapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarFormaPago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModificarPersonal.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ModifUser.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_FormPago.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Banco.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_MotivoEgreso.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Mod_Tarjeta.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.NuevaVenta.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PersonalXEtapa.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.PrincipalForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.ProductoForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Proyectos.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.UserForm.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Properties.Resources.resources
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.GenerateResource.cache
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.cache
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\RdlCompile.compiled
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CoreCompileInputs.cache
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.csproj.CopyComplete
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.exe
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare-Soft.pdb
+E:\Facultad\PAV 1\Repositorios GitHub\NewWare-Soft\NewWare-Soft\obj\Debug\NewWare_Soft.Forms.Estadisticas.DuracionDeEtapas.resources

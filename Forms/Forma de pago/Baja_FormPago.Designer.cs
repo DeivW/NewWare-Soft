@@ -1,0 +1,213 @@
+﻿
+namespace NewWare_Soft.Forms
+{
+    partial class Baja_FormPago
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Baja_FormPago));
+            this.btnEliminarBanco = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnBuscarBanco = new System.Windows.Forms.Button();
+            this.gdrBancos = new System.Windows.Forms.DataGridView();
+            this.idFormaPago = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NombreFormaPago = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.txtNombreBuscar = new System.Windows.Forms.TextBox();
+            this.lblBuscarBanco = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtNombreBanco = new System.Windows.Forms.TextBox();
+            this.lblNombreBanco = new System.Windows.Forms.Label();
+            this.label_Empresa = new System.Windows.Forms.Label();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gdrBancos)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // btnEliminarBanco
+            // 
+            this.btnEliminarBanco.Enabled = false;
+            this.btnEliminarBanco.Location = new System.Drawing.Point(157, 352);
+            this.btnEliminarBanco.Name = "btnEliminarBanco";
+            this.btnEliminarBanco.Size = new System.Drawing.Size(262, 33);
+            this.btnEliminarBanco.TabIndex = 18;
+            this.btnEliminarBanco.Text = "Eliminar";
+            this.btnEliminarBanco.UseVisualStyleBackColor = true;
+            this.btnEliminarBanco.Click += new System.EventHandler(this.btnEliminarBanco_Click);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.btnBuscarBanco);
+            this.groupBox1.Controls.Add(this.gdrBancos);
+            this.groupBox1.Controls.Add(this.txtNombreBuscar);
+            this.groupBox1.Controls.Add(this.lblBuscarBanco);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Location = new System.Drawing.Point(39, 91);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(504, 205);
+            this.groupBox1.TabIndex = 17;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Seleccione una forma de pago de la lista o busque por nombre";
+            // 
+            // btnBuscarBanco
+            // 
+            this.btnBuscarBanco.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscarBanco.Location = new System.Drawing.Point(386, 163);
+            this.btnBuscarBanco.Name = "btnBuscarBanco";
+            this.btnBuscarBanco.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscarBanco.TabIndex = 7;
+            this.btnBuscarBanco.Text = "Buscar";
+            this.btnBuscarBanco.UseVisualStyleBackColor = true;
+            this.btnBuscarBanco.Click += new System.EventHandler(this.btnBuscarBanco_Click);
+            // 
+            // gdrBancos
+            // 
+            this.gdrBancos.AllowUserToAddRows = false;
+            this.gdrBancos.AllowUserToDeleteRows = false;
+            this.gdrBancos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.gdrBancos.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.idFormaPago,
+            this.NombreFormaPago});
+            this.gdrBancos.Location = new System.Drawing.Point(56, 22);
+            this.gdrBancos.Name = "gdrBancos";
+            this.gdrBancos.ReadOnly = true;
+            this.gdrBancos.Size = new System.Drawing.Size(399, 131);
+            this.gdrBancos.TabIndex = 0;
+            this.gdrBancos.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gdrBancos_CellClick);
+            // 
+            // idFormaPago
+            // 
+            this.idFormaPago.DataPropertyName = "idFormaPago";
+            this.idFormaPago.HeaderText = "Id";
+            this.idFormaPago.Name = "idFormaPago";
+            this.idFormaPago.ReadOnly = true;
+            this.idFormaPago.Width = 50;
+            // 
+            // NombreFormaPago
+            // 
+            this.NombreFormaPago.DataPropertyName = "NombreFormaPago";
+            this.NombreFormaPago.HeaderText = "Nombre";
+            this.NombreFormaPago.Name = "NombreFormaPago";
+            this.NombreFormaPago.ReadOnly = true;
+            this.NombreFormaPago.Width = 300;
+            // 
+            // txtNombreBuscar
+            // 
+            this.txtNombreBuscar.Location = new System.Drawing.Point(188, 163);
+            this.txtNombreBuscar.Name = "txtNombreBuscar";
+            this.txtNombreBuscar.Size = new System.Drawing.Size(192, 23);
+            this.txtNombreBuscar.TabIndex = 6;
+            // 
+            // lblBuscarBanco
+            // 
+            this.lblBuscarBanco.AutoSize = true;
+            this.lblBuscarBanco.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBuscarBanco.Location = new System.Drawing.Point(23, 164);
+            this.lblBuscarBanco.Name = "lblBuscarBanco";
+            this.lblBuscarBanco.Size = new System.Drawing.Size(159, 18);
+            this.lblBuscarBanco.TabIndex = 5;
+            this.lblBuscarBanco.Text = "Buscar forma de pago:";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(166, 50);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(235, 20);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "Eliminar una Forma de Pago";
+            // 
+            // txtNombreBanco
+            // 
+            this.txtNombreBanco.Enabled = false;
+            this.txtNombreBanco.Location = new System.Drawing.Point(205, 313);
+            this.txtNombreBanco.Name = "txtNombreBanco";
+            this.txtNombreBanco.Size = new System.Drawing.Size(313, 20);
+            this.txtNombreBanco.TabIndex = 20;
+            // 
+            // lblNombreBanco
+            // 
+            this.lblNombreBanco.AutoSize = true;
+            this.lblNombreBanco.Enabled = false;
+            this.lblNombreBanco.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNombreBanco.Location = new System.Drawing.Point(72, 312);
+            this.lblNombreBanco.Name = "lblNombreBanco";
+            this.lblNombreBanco.Size = new System.Drawing.Size(123, 18);
+            this.lblNombreBanco.TabIndex = 19;
+            this.lblNombreBanco.Text = "Forma a eliminar:";
+            // 
+            // label_Empresa
+            // 
+            this.label_Empresa.AutoSize = true;
+            this.label_Empresa.Font = new System.Drawing.Font("Lucida Console", 18F, System.Drawing.FontStyle.Bold);
+            this.label_Empresa.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label_Empresa.Location = new System.Drawing.Point(14, 9);
+            this.label_Empresa.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
+            this.label_Empresa.Name = "label_Empresa";
+            this.label_Empresa.Size = new System.Drawing.Size(190, 24);
+            this.label_Empresa.TabIndex = 55;
+            this.label_Empresa.Text = "NewWare-Soft";
+            // 
+            // Baja_FormPago
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(588, 397);
+            this.Controls.Add(this.label_Empresa);
+            this.Controls.Add(this.txtNombreBanco);
+            this.Controls.Add(this.lblNombreBanco);
+            this.Controls.Add(this.btnEliminarBanco);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "Baja_FormPago";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Baja Forma de Pago";
+            this.Load += new System.EventHandler(this.Baja_Banco_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gdrBancos)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button btnEliminarBanco;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button btnBuscarBanco;
+        private System.Windows.Forms.DataGridView gdrBancos;
+        private System.Windows.Forms.TextBox txtNombreBuscar;
+        private System.Windows.Forms.Label lblBuscarBanco;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtNombreBanco;
+        private System.Windows.Forms.Label lblNombreBanco;
+        private System.Windows.Forms.DataGridViewTextBoxColumn idFormaPago;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NombreFormaPago;
+        private System.Windows.Forms.Label label_Empresa;
+    }
+}
